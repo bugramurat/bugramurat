@@ -30,11 +30,11 @@ I'm currently learning JAVA features.
 
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=periq&color=brightgreen)
-
 <br>
 
 ##
+
+![](https://komarev.com/ghpvc/?username=periq&color=brightgreen)
 
 [linkedin]: https://www.linkedin.com/in/bugramurat/
 [carrd]: https://periq.carrd.co
