@@ -9,7 +9,7 @@ I'm currently learning JAVA features.
 
 [<img height="22" src="https://unpkg.com/simple-icons@v5/icons/linktree.svg" align="left" />][carrd]
 
-<br><br>
+<br>
 
 ##
 ### Tech I use and learning
@@ -31,6 +31,10 @@ I'm currently learning JAVA features.
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=periq&color=brightgreen)
+
+<br>
+
+##
 
 [linkedin]: https://www.linkedin.com/in/bugramurat/
 [carrd]: https://periq.carrd.co
