@@ -13,19 +13,19 @@ I'm currently learning JAVA features.
 
 ### Tech I use and learning
 
-<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="40">
+<img align="left" alt="JAVA" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="40">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50">
+<img align="left" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">
 
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" width="60">
+<img align="left" alt="REACT" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" height="40">
 
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="80">
+<img align="left" alt="MySQL" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40">
 
-<img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" width="50">
+<img align="left" alt="Spring Boot" src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" height="40">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="65">
+<img align="left" alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="45">
+<img align="left" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40">
 
 
 [linkedin]: https://www.linkedin.com/in/bugramurat/
