@@ -11,6 +11,7 @@ I'm currently learning JAVA features.
 
 <br><br>
 
+##
 ### Tech I use and learning
 
 <img align="left" alt="JAVA" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="40">
