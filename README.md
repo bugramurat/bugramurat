@@ -1,5 +1,5 @@
-### Hi there, I'm Bugra :wave:
-## Junior Java Developer
+### Hi there, I'm **Bugra** :wave:
+## *Junior Java Developer*
 
 I'm currently learning JAVA features. 
 
@@ -27,6 +27,9 @@ I'm currently learning JAVA features.
 
 <img align="left" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40">
 
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=periq&color=brightgreen)
 
 [linkedin]: https://www.linkedin.com/in/bugramurat/
 [carrd]: https://periq.carrd.co
