@@ -11,8 +11,6 @@ I'm currently learning JAVA features.
 
 <br><br>
 
-<br>
-
 ##
 ### Tech I use and learning
 
