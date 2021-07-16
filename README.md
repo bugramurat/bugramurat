@@ -28,8 +28,6 @@ I'm currently learning JAVA features.
 
 <img align="left" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugramurat)](https://github.com/anuraghazra/github-readme-stats)
-
 <br><br>
 
 <br>
@@ -37,6 +35,11 @@ I'm currently learning JAVA features.
 ##
 
 ![](https://komarev.com/ghpvc/?username=periq&color=brightgreen)
+
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugramurat)](https://github.com/anuraghazra/github-readme-stats)">
+</details>
 
 [linkedin]: https://www.linkedin.com/in/bugramurat/
 [carrd]: https://periq.carrd.co
