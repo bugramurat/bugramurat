@@ -32,12 +32,12 @@ I'm currently learning JAVA features.
 
 ##
 
-![](https://komarev.com/ghpvc/?username=periq&color=brightgreen)
-
 <details>
 <summary>:bulb: Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugramurat&layout=compact">
 </details>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=periq&color=brightgreen">
 
 [linkedin]: https://www.linkedin.com/in/bugramurat/
 [carrd]: https://periq.carrd.co
