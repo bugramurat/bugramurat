@@ -9,7 +9,7 @@ I'm currently learning JAVA features.
 
 [<img height="22" src="https://unpkg.com/simple-icons@v5/icons/linktree.svg" align="left" />][carrd]
 
-<br><br>
+<br>
 
 ##
 ### Techs I use and learning
@@ -28,17 +28,15 @@ I'm currently learning JAVA features.
 
 <img align="left" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40">
 
-<br><br>
-
 <br>
 
 ##
 
 ![](https://komarev.com/ghpvc/?username=periq&color=brightgreen)
 
-<details align="right">
+<details>
 <summary>:bulb: Most Used Languages</summary>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugramurat&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugramurat&layout=compact">
 </details>
 
 [linkedin]: https://www.linkedin.com/in/bugramurat/
