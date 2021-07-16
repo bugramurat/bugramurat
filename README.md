@@ -36,7 +36,7 @@ I'm currently learning JAVA features.
 
 ![](https://komarev.com/ghpvc/?username=periq&color=brightgreen)
 
-<details>
+<details align="right">
 <summary>:bulb: Most Used Languages</summary>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugramurat&layout=compact">
 </details>
