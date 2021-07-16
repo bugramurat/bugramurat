@@ -38,7 +38,7 @@ I'm currently learning JAVA features.
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugramurat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugramurat&layout=compact">
 </details>
 
 [linkedin]: https://www.linkedin.com/in/bugramurat/
