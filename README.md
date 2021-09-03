@@ -14,13 +14,13 @@ I'm currently learning JAVA features.
 ##
 ### Techs I use and learning
 
-<img align="left" alt="JAVA" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="40">
-
 <img align="left" alt="HTML5" src="https://i.ibb.co/bQbPRWS/512px-HTML5-logo-and-wordmark-svg.png" height="40">
 
 <img align="left" alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="40">
 
 <img align="left" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">
+
+<img align="left" alt="JAVA" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="40">
 
 
 
