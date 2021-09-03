@@ -32,7 +32,7 @@ I'm currently learning JAVA features.
 
 <img align="left" alt="Spring Boot" src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" height="40">
 
-<img align="left" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40">
+<img align="left" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40">
 
 <br><br>
 
