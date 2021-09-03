@@ -20,7 +20,7 @@ I'm currently learning JAVA features.
 
 <img align="left" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">
 
-<img align="left" alt="JAVA" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" height="40">
+<img align="left" alt="JAVA" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" height="40">
 
 
 
