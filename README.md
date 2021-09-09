@@ -1,7 +1,7 @@
 ### Hi there, I'm **Bugra** :wave:
 ## *Junior Software Developer*
 
-I'm currently learning JAVA features. 
+I'm currently learning web features. 
 
 ### Connect with me
 
