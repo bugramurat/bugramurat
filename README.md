@@ -1,5 +1,5 @@
 ### Hi there, I'm **Bugra** :wave:
-## *Junior Software Developer*
+## *Junior Web Developer*
 
 I'm currently learning web features. 
 
