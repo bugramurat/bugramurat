@@ -5,9 +5,7 @@ I'm currently learning web features.
 
 ### Connect with me
 
-[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][linkedin]
-
-[<img height="22" src="https://unpkg.com/simple-icons@v5/icons/linktree.svg" align="left" />][carrd]
+[<img height="22" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" align="left" />][linkedin]
 
 <br>
 
@@ -28,9 +26,7 @@ I'm currently learning web features.
 
 <img align="left" alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40">
 
-<img align="left" alt="REACT" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" height="40">
-
-<img align="left" alt="Spring Boot" src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" height="40">
+<img align="left" alt="REACT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="40">
 
 <img align="left" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40">
 
