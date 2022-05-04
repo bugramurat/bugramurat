@@ -1,6 +1,6 @@
 <img align="right" alt="Stewie" src="https://media.giphy.com/media/8m5j6ur7uDskqhH9R4/giphy.gif" width="480" height="270" />
 
-## Hi there, I'm **Bugra** :wave:
+## Hi, I'm **Bugra** :wave:
 #### **Junior Web Developer**
 I'm currently learning web features. 
 
