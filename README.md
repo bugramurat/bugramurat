@@ -2,7 +2,7 @@
 
 ## Hi, I'm **Bugra** :wave:
 #### **Junior Web Developer**
-I'm currently learning web features. 
+I'm currently learning web and AI features. 
 
 ##
 ### Connect with me
