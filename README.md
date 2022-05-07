@@ -7,6 +7,7 @@ I'm currently learning web and AI features.
 ##
 ### Connect with me
 [<img height="40" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" align="left" />][linkedin]
+[<img height="40" src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" align="left" />][codepen]
 
 <br>
 
@@ -42,3 +43,4 @@ I'm currently learning web and AI features.
 <img align="right" src="https://komarev.com/ghpvc/?username=periq&color=brightgreen">
 
 [linkedin]: https://www.linkedin.com/in/bugramurat/
+[codepen]: https://codepen.io/bugramurat/
