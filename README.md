@@ -23,7 +23,7 @@ I'm currently learning web and AI features.
 
 ||OpenCV|Arduino
 |:-:|:-:|:-:|
-|🤖 AI Development|<img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" height="40"/>|<img alt="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40"/>
+|🤖 Image Processing|<img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" height="40"/>|<img alt="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40"/>
 
 <br>
 
