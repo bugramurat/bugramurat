@@ -13,9 +13,9 @@ I'm currently learning web and AI features.
 <br>
 
 ## Techs I use and learning
-||HTML|CSS|Javascript|Figma|REACT|Bootstrap
+||HTML|CSS|Javascript|REACT|Bootstrap|Figma
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|🖼 Frontend Development|<img alt="HTML" src="https://i.ibb.co/bQbPRWS/512px-HTML5-logo-and-wordmark-svg.png" height="40"/>|<img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="40"/>|<img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40"/>|<img alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" height="40"/>|<img alt="REACT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="40"/>|<img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40"/>
+|🖼 Frontend Development|<img alt="HTML" src="https://i.ibb.co/bQbPRWS/512px-HTML5-logo-and-wordmark-svg.png" height="40"/>|<img alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="40"/>|<img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40"/>|<img alt="REACT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="40"/>|<img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40"/>|<img alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" height="40"/>
 
 ||Node.js|MySQL|MongoDB|Python|Java|C
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
