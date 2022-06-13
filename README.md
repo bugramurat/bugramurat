@@ -21,9 +21,9 @@ I'm currently learning web and AI features.
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |🔧 Backend Development|<img alt="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="40"/> | <img alt="MySQL" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40"/>|<img alt="MongoDB" src="https://www.seekpng.com/png/full/383-3838960_mongodb-png.png" height="40"/>|<img alt="Python" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" height="40" />|<img alt="Java" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" height="40"/>|<img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40"/>
 
-||OpenCV|Arduino
-|:-:|:-:|:-:|
-|🤖 Image Processing|<img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" height="40"/>|<img alt="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40"/>
+||OpenCV|Raspberry Pi|Arduino
+|:-:|:-:|:-:|:-:|
+|🤖 Image Processing|<img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" height="40"/>|<img alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cb/Raspberry_Pi_Logo.svg/274px-Raspberry_Pi_Logo.svg.png" height="40"/>|<img alt="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40"/>
 
 <br>
 
