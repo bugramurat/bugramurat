@@ -2,7 +2,7 @@
 
 ## Hi, I'm **Bugra** :wave:
 #### **Junior Software Engineer**
-I'm currently learning image processing, deep learning, autonom vehicles and AI technologies.
+I'm currently learning image processing, deep learning and autonom vehicles.
 
 <br>
 
