@@ -22,9 +22,9 @@ I'm currently learning image processing, deep learning and autonom vehicles.
 |:-:|:-:|
 |🤖 Deep Learning|<img alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2560px-PyTorch_logo_black.svg.png" height="40"/>
 
-||Jetson Nano|Raspberry Pi|Arduino
+||Arduino|Raspberry Pi|Jetson Nano
 |:-:|:-:|:-:|:-:|
-|🔌 Embedded Systems|<img alt="Jetson Nano" src="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-d.png" height="40"/>|<img alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cb/Raspberry_Pi_Logo.svg/274px-Raspberry_Pi_Logo.svg.png" height="40"/>|<img alt="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40"/>
+|🔌 Embedded Systems|<img alt="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40"/>|<img alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cb/Raspberry_Pi_Logo.svg/274px-Raspberry_Pi_Logo.svg.png" height="40"/>|<img alt="Jetson Nano" src="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-d.png" height="40"/>
 
 ||HTML|CSS|Javascript|REACT|Bootstrap|Figma
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
