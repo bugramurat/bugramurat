@@ -18,9 +18,9 @@ I'm currently learning image processing, deep learning and autonom vehicles.
 |🎞️ Image Processing|<img alt="Python" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" height="40" />|<img alt="OpenCV" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" height="40"/>|<img alt="Keras" src="https://keras.io/img/logo.png" height="40"/>|<img alt="Raspberry Pi" src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/cb/Raspberry_Pi_Logo.svg/274px-Raspberry_Pi_Logo.svg.png" height="40"/>|<img alt="Arduino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="40"/>
 
 
-||Keras|TensorFlow|PyTorch
+||PyTorch
 |:-:|:-:|:-:|:-:|
-|🤖 Deep Learning|<img alt="Keras" src="https://keras.io/img/logo.png" height="40"/>|<img alt="Tensorflow" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png" height="40"/>|<img alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2560px-PyTorch_logo_black.svg.png" height="40"/>
+|🤖 Deep Learning|<img alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2560px-PyTorch_logo_black.svg.png" height="40"/>
 
 ||Raspberry Pi|Arduino
 |:-:|:-:|:-:|
