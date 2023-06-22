@@ -19,7 +19,7 @@ I'm currently learning image processing, deep learning and autonom vehicles.
 
 
 ||PyTorch
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|
 |🤖 Deep Learning|<img alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2560px-PyTorch_logo_black.svg.png" height="40"/>
 
 ||Raspberry Pi|Arduino
