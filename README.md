@@ -1,7 +1,7 @@
 <img align="right" alt="Stewie" src="https://media.giphy.com/media/8m5j6ur7uDskqhH9R4/giphy.gif" width="480" height="270" />
 
 ## Hi, I'm **Bugra** :wave:
-#### **Junior Software Engineer**
+#### **Computer Engineer**
 I'm currently learning image processing, deep learning and autonom vehicles.
 
 <br>
