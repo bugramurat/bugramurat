@@ -1,8 +1,8 @@
 <img align="right" alt="Stewie" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VudHhubmZ5bnhoZDhubWVzMDVhOXoyNDEzOW5oNHlzMXJsZ3kwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfAbamorlofzvpASws/giphy.gif" width="480" height="280" />
 
 ## Hi, I'm **Bugra** :wave:
-### Junior Full Stack Developer,
-also interested in **image processing** and **deep learning**!
+### *Junior Full Stack Developer*
+Also interested in **image processing** and **deep learning**!
 
 
 ### Reach out to me
