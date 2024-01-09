@@ -2,7 +2,7 @@
 
 ## Hi, I'm **Bugra** :wave:
 ### *Junior Full Stack Developer*
-Also interested in **image processing** and **deep learning**!
+Also have one year experience in **computer vision** and **deep learning**!
 
 
 ### Reach out to me
