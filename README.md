@@ -1,8 +1,8 @@
 <img align="right" alt="Stewie" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VudHhubmZ5bnhoZDhubWVzMDVhOXoyNDEzOW5oNHlzMXJsZ3kwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfAbamorlofzvpASws/giphy.gif" width="480" height="280" />
 
 ## Hi, I'm **Bugra** :wave:
-### *Junior Full Stack Developer*
-Also have one year experience in **computer vision** and **deep learning**!
+### *Computer Engineer*
+An inspiring computer engineer. Have one year experience in computer vision and deep learning. Working on data and web development. As an individual who aims to constantly develop and learn in carieer, looking for opportunities where can put knowledge and skillsi nto more practice and meet new projects and experiences.
 
 
 ### Reach out to me
