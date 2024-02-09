@@ -2,7 +2,7 @@
 
 ## Hi, I'm **Bugra** :wave:
 ### *Computer Engineer*
-An inspiring computer engineer. Have one year experience in computer vision and deep learning. Working on data and web development. As an individual who aims to constantly develop and learn in carieer, looking for opportunities where can put knowledge and skillsi nto more practice and meet new projects and experiences.
+An inspiring computer engineer. Have one year experience in computer vision and deep learning. Working on data and web development. As an individual who aims to constantly develop and learn in carieer, looking for opportunities where can put knowledge and skills into more practice and meet new projects and experiences.
 
 
 ### Reach out to me
