@@ -1,7 +1,7 @@
 <img align="center" alt="south park" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VudHhubmZ5bnhoZDhubWVzMDVhOXoyNDEzOW5oNHlzMXJsZ3kwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfAbamorlofzvpASws/giphy.gif" width="200" />
 
 ## <h3 align="start" >About me </h3> 
-An inspiring computer engineer. Have one year experience in computer vision and deep learning. Working on data and web development. As an individual who aims to constantly develop and learn in carieer, looking for opportunities where can put knowledge and skills into more practice and meet new projects and experiences.
+An inspiring Computer Engineer. Have one year experience in computer vision and deep learning. Working on data and web development. As an individual who aims to constantly develop and learn in carieer, looking for opportunities where can put knowledge and skills into more practice and meet new projects and experiences.
 
 ## <h3 align="start" >Reach out to me </h3> 
 [<img height="40" align='left' src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png"/>][linkedin] </br>
