@@ -4,7 +4,11 @@
 An inspiring Computer Engineer. Have one year experience in computer vision and deep learning. Working on data and web development. As an individual who aims to constantly develop and learn in carieer, looking for opportunities where can put knowledge and skills into more practice and meet new projects and experiences.
 
 ## <h3 align="start" >Reach out to me </h3> 
-[<img height="40" align='left' src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png"/>][linkedin] </br>
+CV: https://drive.google.com/file/d/1SqPoNCaDIdxIW1rf6iu7CO801XHQGodm/view?pli=1 </br>
+Website: https://bugramurat.framer.website/ </br>
+Linkedin: https://www.linkedin.com/in/bugramurat/ </br>
+Mail Me: bugramurat4444@gmail.com
+</br>
 
 ## <h3 align="start" >Techs I use </h3> 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/180px-Nextjs-logo.svg.png" height="20" />
