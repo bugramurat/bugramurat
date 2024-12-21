@@ -1,7 +1,7 @@
 <img align="center" alt="south park" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VudHhubmZ5bnhoZDhubWVzMDVhOXoyNDEzOW5oNHlzMXJsZ3kwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfAbamorlofzvpASws/giphy.gif" width="200" />
 
 ## <h3 align="start" >About me </h3> 
-I have one year of experience in computer vision and deep learning. I am a computer engineer who aims to continuously develop and learn in his career. I am looking for a job where I can turn my knowledge and skills into more practice.
+I have one year of experience in computer vision and deep learning. As a computer engineer, I am committed to continuous growth and learning throughout my career. I am seeking a position where I can apply my knowledge and skills in practical settings while further enhancing my expertise.
 
 ## <h3 align="start" >Reach out to me </h3> 
 Linkedin: https://www.linkedin.com/in/bugramurat/ </br>
