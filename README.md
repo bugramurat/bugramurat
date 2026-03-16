@@ -6,8 +6,6 @@ I have one year of experience in computer vision and deep learning.
 ## <h3 align="start" >Reach out to me </h3> 
 Mail Me: bugramurat4444@gmail.com
 
-## <h3 align="start" >Buy me a coffee! </h3> 
-https://buymeacoffee.com/bugr
 </br>
 
 ## <h3 align="start" >Techs I use </h3> 
