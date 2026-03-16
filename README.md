@@ -8,14 +8,8 @@ bugramurat4444@gmail.com
 
 <br />
 <br />
-<br />
 
-<details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=bugramurat&theme=radical" >
-</details>
-
-<details>
-<summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugramurat&layout=compact" >
-</details>
+<div style="display: flex; justify-content: center; gap: 0px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=bugramurat&theme=gruvbox_light" style="width: 34%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugramurat&layout=compact" style="width: 27%;" />
+</div>
