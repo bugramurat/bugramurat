@@ -1,10 +1,10 @@
 <img align="center" alt="south park" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VudHhubmZ5bnhoZDhubWVzMDVhOXoyNDEzOW5oNHlzMXJsZ3kwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfAbamorlofzvpASws/giphy.gif" width="200" />
 
 ## <h3 align="start" >About me </h3> 
-I have one year of experience in computer vision and deep learning.
+comp eng grad.
 
 ## <h3 align="start" >Reach out to me </h3> 
-Mail Me: bugramurat4444@gmail.com
+bugramurat4444@gmail.com
 
 </br>
 
