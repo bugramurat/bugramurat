@@ -1,4 +1,4 @@
-<img align="center" alt="south park" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VudHhubmZ5bnhoZDhubWVzMDVhOXoyNDEzOW5oNHlzMXJsZ3kwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfAbamorlofzvpASws/giphy.gif" width="200" />
+<img align="center" alt="south park" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VudHhubmZ5bnhoZDhubWVzMDVhOXoyNDEzOW5oNHlzMXJsZ3kwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfAbamorlofzvpASws/giphy.gif" width="300" />
 
 ## <h3 align="start" >About me </h3> 
 comp eng grad.
